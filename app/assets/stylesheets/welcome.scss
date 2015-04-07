@@ -23,3 +23,15 @@ section {
   padding: 5px;
 }
 
+.social-btn {
+  color: #cc99ff;
+  padding: 1em;
+  background-color: blue;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+.social-btn:hover {
+  color: white;
+}
